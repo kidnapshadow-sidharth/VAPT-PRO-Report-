@@ -1,6 +1,6 @@
 # 🛡 VAPT Pro — Enterprise VAPT Reporting Platform
 
-> **Created by Sidharth Mittal** · Information Security, Cashpor Micro Credit
+> **Created by Sidharth Mittal** · Information Security, 
 
 A full-featured Vulnerability Assessment & Penetration Testing report platform built in React. Runs entirely on your local machine — no cloud, no SaaS fees, no vendor lock-in.
 
