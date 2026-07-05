@@ -7,6 +7,10 @@ A full-featured Vulnerability Assessment & Penetration Testing report platform b
 
 <img width="1295" height="647" alt="image" src="https://github.com/user-attachments/assets/8a50d884-7fef-4180-8a4e-0526936b3f89" />
 
+
+<img width="1252" height="635" alt="image" src="https://github.com/user-attachments/assets/ccae9162-3949-4fe9-8b01-d42ef4e81f0f" />
+
+
 ---
 
 ## 🚀 Quick Start
