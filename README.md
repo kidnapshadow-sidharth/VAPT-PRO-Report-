@@ -5,7 +5,13 @@
 A full-featured Vulnerability Assessment & Penetration Testing report platform built in React. Runs entirely on your local machine — no cloud, no SaaS fees, no vendor lock-in.
 
 
+Before login
+
 <img width="1295" height="647" alt="image" src="https://github.com/user-attachments/assets/8a50d884-7fef-4180-8a4e-0526936b3f89" />
+
+
+
+After login
 
 
 <img width="1252" height="635" alt="image" src="https://github.com/user-attachments/assets/ccae9162-3949-4fe9-8b01-d42ef4e81f0f" />
